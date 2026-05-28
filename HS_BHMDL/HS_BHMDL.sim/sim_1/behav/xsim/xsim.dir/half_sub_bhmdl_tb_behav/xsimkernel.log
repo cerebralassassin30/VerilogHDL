@@ -1,7 +1,0 @@
-Running: xsim.dir/half_sub_bhmdl_tb_behav/xsimk.exe -simmode gui -wdb half_sub_bhmdl_tb_behav.wdb -simrunnum 0 -socket 53739
-Design successfully loaded
-Design Loading Memory Usage: 11484 KB (Peak: 11484 KB)
-Design Loading CPU Usage: 109 ms
-Simulation completed
-Simulation Memory Usage: 12392 KB (Peak: 12392 KB)
-Simulation CPU Usage: 281 ms
