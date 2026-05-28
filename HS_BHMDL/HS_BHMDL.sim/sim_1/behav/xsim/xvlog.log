@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "A:/fr/HS_BHMDL/HS_BHMDL.srcs/sources_1/new/half_sub_bhmdl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module half_sub_bhmdl
+INFO: [VRFC 10-2263] Analyzing Verilog file "A:/fr/HS_BHMDL/HS_BHMDL.srcs/sim_1/new/half_sub_bhmdl_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module half_sub_bhmdl_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "A:/fr/HS_BHMDL/HS_BHMDL.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

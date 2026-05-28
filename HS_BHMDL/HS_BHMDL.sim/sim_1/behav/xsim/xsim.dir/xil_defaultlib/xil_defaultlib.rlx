@@ -1,0 +1,7 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+A:/fr/HS_BHMDL/HS_BHMDL.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+A:/fr/HS_BHMDL/HS_BHMDL.srcs/sim_1/new/half_sub_bhmdl_tb.v,1779639074,verilog,,,,half_sub_bhmdl_tb,,,C:/AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+A:/fr/HS_BHMDL/HS_BHMDL.srcs/sources_1/new/half_sub_bhmdl.v,1779638894,verilog,,A:/fr/HS_BHMDL/HS_BHMDL.srcs/sim_1/new/half_sub_bhmdl_tb.v,,half_sub_bhmdl,,,C:/AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
