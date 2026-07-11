@@ -1,7 +1,9 @@
-// 1x4 DEMUX using Behavioral Modeling
+// 1x4 DEMUX using Behavioral Modelling
 
+// VERILOG CODE
+
+`timescale 1ns/1ps
 module demux_1x4(en, s, d, y);
-
   input en, d;
   input [1:0] s;
   output reg [3:0] y;
