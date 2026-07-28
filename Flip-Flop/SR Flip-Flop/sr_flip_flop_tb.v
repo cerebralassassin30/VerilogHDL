@@ -31,7 +31,7 @@ initial begin
 
     // TESTCASE 1
 
-    RST = 1'b1; S = 1'b0; R = 1'b0; #10; // Expected Output: Q = 0, QBAR = 1
+    RST = 1'b1; S = 1'b0; R = 1'b0; // Expected Output: Q = 0, QBAR = 1
 
     // TESTCASE 2
 
